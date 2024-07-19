@@ -1,1 +1,1 @@
- 
+The Portfolio Project is a personal website designed to showcase your professional skills, experience, and achievements. This project aims to provide a dynamic and visually appealing platform to present your work, making it easy for potential employers, clients, or collaborators to learn more about you and your capabilities. 
